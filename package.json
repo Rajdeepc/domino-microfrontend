@@ -1,0 +1,22 @@
+{
+  "name": "micro-frontend-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajdeepc/domino-microfrontend.git"
+  },
+  "keywords": [
+    "microfrontend"
+  ],
+  "author": "Rajdeep Chandra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rajdeepc/domino-microfrontend/issues"
+  },
+  "homepage": "https://github.com/Rajdeepc/domino-microfrontend#readme"
+}
